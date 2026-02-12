@@ -5,7 +5,7 @@ BMSTU student.
 
 ### Connect
 - email: saiddandamaev6@gmail.com
-- tg: [@holodilnik11](t.me/holodilnik11)
+- tg: [@holodilnik11](https://t.me/holodilnik11)
 
 
 ## Tech Stack
